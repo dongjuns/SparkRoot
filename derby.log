@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 07 22:09:31 KST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0160-3118-69e1-00002eca7fc8 
+on database directory /home/sunyoung/nano/NanoAOD/TTHAnalyzer/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@154a5b9e 
+Loaded from file:/home/tools/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/home/sunyoung/nano/NanoAOD/TTHAnalyzer
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-696.16.1.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
